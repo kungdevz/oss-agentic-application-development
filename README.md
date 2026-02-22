@@ -6,11 +6,11 @@ This space serves as a comprehensive learning hub and documentation of my journe
 
 This repository contains notes, code samples, and projects derived from the following specializations:
 
-- **Generative AI**: Build Open Models and Tools: Deep diving into the ecosystem of open-weights models and the tools required to customize them.
+- [**Generative AI: Build Open Models and Tools**](https://www.coursera.org/professional-certificates/genai-build-open-models-and-tools): Deep diving into the ecosystem of open-weights models and the tools required to customize them.
 
-- **Generative AI with Large Language Models**: Understanding the fundamental architecture, training methodologies, and fine-tuning techniques for LLMs.
+- [**Generative AI with Large Language Models**](https://www.coursera.org/professional-certificates/generative-ai-with-large-language-models): Understanding the fundamental architecture, training methodologies, and fine-tuning techniques for LLMs.
 
-- **IBM RAG and Agentic AI Professional Certificate**: Mastering Retrieval-Augmented Generation and the orchestration of autonomous AI agents.
+- [**IBM RAG and Agentic AI Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai): Mastering Retrieval-Augmented Generation and the orchestration of autonomous AI agents.
 
 ## 🎯 Objective
 
