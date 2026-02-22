@@ -1,6 +1,6 @@
-# Welcome to this repository! This space serves as a comprehensive learning hub and documentation of my journey through several advanced Coursera programs focused on Generative AI
+# Welcome to this repository
 
-The goal of this collection is to bridge the gap between theoretical knowledge and practical execution, specifically focusing on how to lead and organize Agentic AI projects using Open Source Software (OSS).
+This space serves as a comprehensive learning hub and documentation of my journey through several advanced Coursera programs focused on Generative AI. The goal of this collection is to bridge the gap between theoretical knowledge and practical execution, specifically focusing on how to lead and organize Agentic AI projects using Open Source Software (OSS).
 
 ## 📚 Featured Curriculum
 
